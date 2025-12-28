@@ -14,7 +14,7 @@ This is a desktop GUI application that analyzes the environmental impact of dffe
 
 #How to Run-
 1. Install Python
-2. Run- main.py file
+2. Run- run.py file
 
 #Purpose
 This is my STEMPower Her Hackathon submission that promotes awareness for sustainable fashion
